@@ -1,1 +1,2 @@
-A pokedex of the 149 pokemon from the 1st generation.
+A pokedex of the first 149 pokemon.
+
